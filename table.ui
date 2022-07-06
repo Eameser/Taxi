@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>426</width>
+    <height>431</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(254, 223, 95);</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>411</width>
+     <height>411</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>автомобиль</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>номер</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>цвет</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>Renout Logan</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>е444ва</string>
+    </property>
+   </item>
+   <item row="0" column="2">
+    <property name="text">
+     <string>серебристый</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>volvo xc60</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>у984рс</string>
+    </property>
+   </item>
+   <item row="1" column="2">
+    <property name="text">
+     <string>чёрный</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>skoda octavia</string>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>т230хо</string>
+    </property>
+   </item>
+   <item row="2" column="2">
+    <property name="text">
+     <string>белый</string>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>mercedes s class</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>е777кх</string>
+    </property>
+   </item>
+   <item row="3" column="2">
+    <property name="text">
+     <string>красный</string>
+    </property>
+   </item>
+   <item row="4" column="0">
+    <property name="text">
+     <string>peugeot 408</string>
+    </property>
+   </item>
+   <item row="4" column="1">
+    <property name="text">
+     <string>e871мм</string>
+    </property>
+   </item>
+   <item row="4" column="2">
+    <property name="text">
+     <string>синий</string>
+    </property>
+   </item>
+   <item row="5" column="0">
+    <property name="text">
+     <string>Lada Largus</string>
+    </property>
+   </item>
+   <item row="5" column="1">
+    <property name="text">
+     <string>к892то</string>
+    </property>
+   </item>
+   <item row="5" column="2">
+    <property name="text">
+     <string>бежевый</string>
+    </property>
+   </item>
+   <item row="6" column="0">
+    <property name="text">
+     <string>nissan almera</string>
+    </property>
+   </item>
+   <item row="6" column="1">
+    <property name="text">
+     <string>о006мв</string>
+    </property>
+   </item>
+   <item row="6" column="2">
+    <property name="text">
+     <string>жёлтый</string>
+    </property>
+   </item>
+   <item row="7" column="0">
+    <property name="text">
+     <string>wolksvagen golf</string>
+    </property>
+   </item>
+   <item row="7" column="1">
+    <property name="text">
+     <string>к844са</string>
+    </property>
+   </item>
+   <item row="7" column="2">
+    <property name="text">
+     <string>оранжевый</string>
+    </property>
+   </item>
+   <item row="8" column="0">
+    <property name="text">
+     <string>audi a4</string>
+    </property>
+   </item>
+   <item row="8" column="1">
+    <property name="text">
+     <string>м349вв</string>
+    </property>
+   </item>
+   <item row="8" column="2">
+    <property name="text">
+     <string>чёрный</string>
+    </property>
+   </item>
+   <item row="9" column="0">
+    <property name="text">
+     <string>mitsubishi lancer</string>
+    </property>
+   </item>
+   <item row="9" column="1">
+    <property name="text">
+     <string>о737от</string>
+    </property>
+   </item>
+   <item row="9" column="2">
+    <property name="text">
+     <string>коричневый</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
